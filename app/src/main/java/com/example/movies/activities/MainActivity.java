@@ -118,7 +118,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public boolean onQueryTextChange(String newText) {
-
+                //TODO: fix this
                 return true;
 
             }
